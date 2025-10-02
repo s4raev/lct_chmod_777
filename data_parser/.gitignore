@@ -1,0 +1,4 @@
+.venv
+2025.xlsx
+__pycache__/
+parsed.jsonl
